@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-![](https://github.com/mawensen/mawensen/blob/main/media/header.jpg)
+![](https://github.com/mawensen/mawensen/blob/main/media/Header1.jpg)
 
 I'm a full stack developer 🚀. I make elegantly professional **💻 Distributed Systems, 🌐 Website applications** for a living. 🌈    
 
